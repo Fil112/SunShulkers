@@ -1,0 +1,29 @@
+# ================================================================================================
+#                                      MESSAGES AND PREFIX
+# ================================================================================================
+# Supports MiniMessage, HEX colors (&#FFFFFF) and & codes. Leave empty to disable. (Works everywhere there is text!)
+messages:
+  prefix: "<gradient:#9863E7:#4498DB>SunShulkers</gradient> &7-" # Plugin prefix
+
+  reload-config: "Plugin configuration reloaded." # Reload message
+  no-permission: "You don't have enough permissions." # No permission message
+
+  cooldown: "Please wait {time}s before opening a shulker." # {time} - cooldown time
+  blacklisted-item: "This item cannot be placed in a shulker!" # Blacklisted item
+  blacklisted-world: "You cannot open shulkers in the {world_name} world!" # {world_name} - world name
+  item-deleted: "Blacklisted item has been deleted!" # Message when a blacklisted item is deleted
+
+  open-message: "You opened a shulker!" # Message on open
+  close-message: "You closed the shulker!" # Message on close
+
+  autocollect-enabled: "Auto-collect items to shulker enabled!" # Message when auto-collect is enabled
+  autocollect-disabled: "Auto-collect items to shulker disabled!" # Message when auto-collect is disabled
+  autocollect-no-space: "There is no space in the shulker for this item!" # Message when the shulker is full
+
+  # Messages for renaming via anvil
+  rename-prompt: "Enter a new name for the shulker in the chat. {supported-formats}"
+  rename-supported-formats: "Supported: &a, &#FF0000, <gradient>, <rainbow>, <bold> (all MiniMessage formats)"
+  rename-success: "Shulker renamed to: {name}" # {name} - new name
+  rename-cancelled: "Renaming cancelled."
+  rename-timeout: "Time is up. Renaming cancelled."
+  close-on-attack: "Shulker closed upon taking damage!" # Message when GUI is closed on attack
