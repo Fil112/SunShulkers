@@ -1,6 +1,7 @@
 # ================================================================================================
 #                                      MESSAGES AND PREFIX
 # ================================================================================================
+# 90%
 # Supports MiniMessage, HEX colors (&#FFFFFF) and & codes. Leave empty to disable. (Works everywhere there is text!)
 messages:
   prefix: "<gradient:#9863E7:#4498DB>SunShulkers</gradient> &7-" # Plugin prefix
@@ -27,3 +28,6 @@ messages:
   rename-cancelled: "Renaming cancelled."
   rename-timeout: "Time is up. Renaming cancelled."
   close-on-attack: "Shulker closed upon taking damage!" # Message when GUI is closed on attack
+
+  update-available: "Доступна новая версия "
+  update-hover: "Нажмите чтобы перейти на GitHub и скачать обновление"
