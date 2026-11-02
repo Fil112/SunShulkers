@@ -2,6 +2,8 @@ MT SOFTWARE LICENSE AGREEMENT
 
 Copyright (c) 2026 MT Studio. All rights reserved.
 
+Project originally created by SunStudio.
+
 > 🇷🇺 Русская версия: Текст лицензии на русском языке доступен в отдельном документе: [LICENSE_RU.md](LICENSE_RU.md).
 
 1. GRANT OF LICENSE
